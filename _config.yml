@@ -1,0 +1,12 @@
+# Site settings
+title: Outer Heaven 
+email: outer@heaven
+description: > # this means to ignore newlines until "baseurl:"
+  Outer heaven 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://outer-heaven.github.com" # the base hostname & protocol for your site
+twitter_username: outer-heaven 
+github_username:  outer-heaven
+
+# Build settings
+markdown: kramdown
